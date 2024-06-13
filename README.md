@@ -8,7 +8,14 @@ Nosso site é projetado para proporcionar uma experiência de navegação fluida
 
 
 
+
+
+
 ![a0540c4d-48af-46b3-9410-4dbdab137827](https://github.com/CamilaDziubat/Cafeteria_Black/assets/117546561/3699e54d-ee2f-4421-b57d-fef8fc655687)
+
+
+
+
 
 
 
@@ -17,13 +24,23 @@ Nosso site é projetado para proporcionar uma experiência de navegação fluida
 Compromisso com a Excelência:
 Assim como nos esforçamos para oferecer a melhor experiência em nosso café físico, nosso site é uma extensão desse compromisso com a excelência. Estamos constantemente atualizando e aprimorando nosso site para garantir que ele permaneça relevante e envolvente para nossos clientes.
 
+ 
 Seja você um amante de café ávido ou alguém em busca de um lugar acolhedor para relaxar, convidamos você a explorar nosso site e descobrir tudo o que o Nosso Café tem a oferecer.
 
 
 
 
 
+
+
+
+
+
 ![8827fff5-1fa7-4417-a2a5-5bc89d1e7a3b](https://github.com/CamilaDziubat/Cafeteria_Black/assets/117546561/de07fd1b-a301-47e0-8e8f-8bd452faefab)
+
+
+
+
 
 
 
