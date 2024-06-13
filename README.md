@@ -1,4 +1,4 @@
-﻿#Cafeteria Black 
+﻿Cafeteria Black 
 CODE COM O MELHOR CAFÉ DA REGIÃO
 Nosso site é projetado para proporcionar uma experiência de navegação fluida e intuitiva. Com cinco menus cuidadosamente organizados, os visitantes podem facilmente explorar nossos diferentes serviços, cardápios e eventos especiais.
 
