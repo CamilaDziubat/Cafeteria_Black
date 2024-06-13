@@ -21,7 +21,7 @@ Nosso site é projetado para proporcionar uma experiência de navegação fluida
 
 
 
-Compromisso com a Excelência:
+## Compromisso com a Excelência:
 Assim como nos esforçamos para oferecer a melhor experiência em nosso café físico, nosso site é uma extensão desse compromisso com a excelência. Estamos constantemente atualizando e aprimorando nosso site para garantir que ele permaneça relevante e envolvente para nossos clientes.
 
  
@@ -47,7 +47,7 @@ Seja você um amante de café ávido ou alguém em busca de um lugar acolhedor p
 
 
 
-Uma Estética Cativante:
+## Uma Estética Cativante:
 
 Desde a escolha das cores até a seleção das imagens, cada elemento visual foi cuidadosamente selecionado para transmitir a essência única do nosso café. Tons quentes e acolhedores são combinados com imagens que capturam a paixão pela arte do café e a convivialidade do ambiente.
 
@@ -60,7 +60,7 @@ Desde a escolha das cores até a seleção das imagens, cada elemento visual foi
 
 
 
-#Responsivo 
+## Responsivo 
 
 A combinação de design responsivo e a utilização adequada da função @media do CSS são essenciais para proporcionar uma experiência de usuário consistente e agradável em aplicativos móveis e na web.
 
