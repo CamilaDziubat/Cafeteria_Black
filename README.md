@@ -55,3 +55,30 @@ Desde a escolha das cores até a seleção das imagens, cada elemento visual foi
 
 
 ![776edcc5-ce4f-4289-b181-839b85453532](https://github.com/CamilaDziubat/Cafeteria_Black/assets/117546561/bac2de0a-5e2a-4fc3-b5f5-8bc2b3b06955)
+
+
+
+
+
+#Responsivo 
+
+A combinação de design responsivo e a utilização adequada da função @media do CSS são essenciais para proporcionar uma experiência de usuário consistente e agradável em aplicativos móveis e na web.
+
+
+
+
+
+
+
+https://github.com/CamilaDziubat/Cafeteria_Black/assets/117546561/136a0408-8510-483d-b3ee-8c8eaca36506
+
+
+
+
+
+
+
+
+
+
+
